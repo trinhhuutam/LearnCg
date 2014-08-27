@@ -42,3 +42,80 @@ Cmd: compileSnippet
   api=4 type=0 insize=922 outsize=762 kw= ok=1
 Cmd: compileSnippet
   api=4 type=1 insize=922 outsize=364 kw= ok=1
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: preprocess
+  insize=561 outsize=144 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): undeclared identifier 'vetexPos'
+  api=4 type=0 insize=686 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=990 outsize=346 ok=1
+Cmd: preprocess
+  insize=990 outsize=346 ok=1
+Cmd: preprocess
+  insize=579 outsize=144 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): undeclared identifier 'vetexPos'
+  api=4 type=0 insize=704 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=580 outsize=144 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=705 outsize=941 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=705 outsize=510 kw= ok=1
+Cmd: preprocess
+  insize=580 outsize=144 ok=1
+Cmd: preprocess
+  insize=590 outsize=154 ok=1
+Cmd: preprocess
+  insize=436 outsize=1182 ok=1
+Cmd: preprocess
+  insize=1015 outsize=157 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (32): invalid subscript 'texcoord'
+  api=4 type=0 insize=1121 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1016 outsize=157 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): unrecognized identifier 'vertexOutut'
+  api=4 type=0 insize=1122 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1017 outsize=157 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Vertex program 'vert': unknown input semantics TAGENT/0
+
+  api=4 type=0 insize=1123 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1019 outsize=157 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1125 outsize=1225 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1125 outsize=510 kw= ok=1
+Cmd: preprocess
+  insize=1017 outsize=157 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1123 outsize=1225 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1123 outsize=510 kw= ok=1
+Cmd: preprocess
+  insize=438 outsize=1184 ok=1
+Cmd: preprocess
+  error: 2 plat 12 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=558 outsize=555 ok=0
+Cmd: preprocess
+  insize=574 outsize=152 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (16): unrecognized identifier 'floar4'
+  api=4 type=0 insize=693 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=574 outsize=152 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (22): undeclared identifier 'UNITY_MAXTRIX_MVP'
+  api=4 type=0 insize=693 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=573 outsize=152 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=692 outsize=1225 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=692 outsize=510 kw= ok=1

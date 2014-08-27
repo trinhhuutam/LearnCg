@@ -1,4 +1,4 @@
-﻿Shader "One Color Shader" 													/* Name of shader */
+﻿Shader "Custom/One_Color_Shader" 													/* Name of shader */
 {
 	SubShader 																/* Unity chooses the subshader that fits the GPU best */
 	{
