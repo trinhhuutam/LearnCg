@@ -1,10 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\Vertex_Input.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\Include_Shader.shader">
     <Files>
       <File FileName="Assets\Shaders\One_Color_Shader.shader" Line="1" Column="32" />
-      <File FileName="Assets\Shaders\Return_Vertex.shader" Line="15" Column="27" />
+      <File FileName="Assets\Shaders\Return_Vertex.shader" Line="1" Column="1" />
       <File FileName="Assets\Shaders\Vertex_Input.shader" Line="36" Column="4" />
+      <File FileName="Assets\Shaders\Include_Shader.shader" Line="22" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
